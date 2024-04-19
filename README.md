@@ -8,7 +8,7 @@
 - **LinkedIn:** [Vinod Yogi](https://www.linkedin.com/in/vinod-yogi)
 
 ## 💫 About Me:
-👋 Hello, I'm **Vinod Yogi**! I am a seasoned Java Developer with over two years of experience in developing both web and enterprise applications in the J2EE environment. I excel in using both traditional J2EE and modern Spring Boot frameworks to deliver robust, scalable solutions.
+👋 Hello, I'm **Vinod Yogi**! I am a seasoned Java Developer with over two years plus of experience in developing both web and enterprise applications in the J2EE environment. I excel in using both traditional J2EE and modern Spring Boot frameworks to deliver robust, scalable solutions.
 
 ## 📚 Education:
 - **B.C.A** from DAVV, Indore
