@@ -11,7 +11,7 @@
 👋 Hello, I'm **Vinod Yogi**! I am a seasoned Java Developer with over two years of experience in developing both web and enterprise applications in the J2EE environment. I excel in using both traditional J2EE and modern Spring Boot frameworks to deliver robust, scalable solutions.
 
 ## 📚 Education:
-- **B.C.A** from Maharaja Ranjit Singh College of Professional Sciences, DAVV, Indore
+- **B.C.A** from DAVV, Indore
 
 ## 💻 Technical Skills:
 - **Languages:** Java, JavaScript, SQL
@@ -23,7 +23,7 @@
 
 ## 📜 Work History:
 - **Java Developer**, High Tech Infosystems, Jabalpur (2023 - Present)
-- **Java Developer**, Sculptsoft, Ahmedabad (2023)
+- **Java Developer**, Sculptsoft, Ahmedabad (2023 - 2023)
 - **Jr. Java Developer**, Shree Soft, Indore (2021 - 2023)
 
 ## 🔧 Roles and Responsibilities:
