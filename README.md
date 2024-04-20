@@ -4,7 +4,7 @@
 - **Location:** Mansour, India, 458880
 - **Phone:** [6263815568](tel:6263815568)
 - **Email:** [rajguruv737@gmail.com](mailto:rajguruv737@gmail.com)
-- **GitHub:** [VinodYogi6263](https://github.com/VinodYogi6263)
+- **GitHub:** [Vinod Yogi](https://github.com/MR-VINODYOGI)
 - **LinkedIn:** [Vinod Yogi](https://www.linkedin.com/in/vinod-yogi)
 
 ## 💫 About Me:
