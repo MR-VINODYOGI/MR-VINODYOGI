@@ -1,52 +1,36 @@
-# Vinod Yogi - Java Developer
+# 👋 Hi, I'm Vinod Yogi
 
-## 📍 Contact Information:
-- **Location:** Mansour, India, 458880
-- **Phone:** [6263815568](tel:6263815568)
-- **Email:** [rajguruv737@gmail.com](mailto:rajguruv737@gmail.com)
-- **GitHub:** [Vinod Yogi](https://github.com/MR-VINODYOGI)
-- **LinkedIn:** [Vinod Yogi](https://www.linkedin.com/in/vinod-yogi)
+**Java Technical Lead | Backend Developer | DevOps Expert**
 
-## 💫 About Me:
-👋 Hello, I'm **Vinod Yogi**!, a Java Developer with over two years of experience in J2EE and Spring Boot frameworks, specializing in scalable web and enterprise applications. Skilled in Java, JavaScript, SQL, microservices, and MVC architecture, with proficiency in tools and platforms like Docker, Kubernetes, Azure, and Firebase.
+With over **4.5 years of professional experience**, I specialize in building high-performance, scalable backend systems using **Java** and **Spring Boot**, complemented by deep DevOps expertise in **Docker**, **Kubernetes**, and CI/CD pipelines. I have a proven track record in delivering production-ready solutions across telecom, messaging, and enterprise platforms.
 
-## 📚 Education:
-- **B.C.A** from DAVV, Indore
+---
 
-## 💻 Technical Skills:
-- **Languages:** Java, JavaScript, SQL
-- **Frameworks:** Spring Boot, Spring MVC, Hibernate
-- **Tools:** Rabbit MQ, Twilio, Eaglview, Multi-tenant, Docker, Kubernetes, Jenkins
-- **Platforms:** Azure, Firebase
-- **Development:** Microservices, MVC architecture, RESTful APIs
-- **Others:** Linux, React.js
+## 🚀 Professional Overview
 
-## 📜 Work History:
-- **Java Developer**, High Tech Infosystems, Jabalpur (2023 - Present)
-- **Java Developer**, Sculptsoft, Ahmedabad (2023 - 2023)
-- **Jr. Java Developer**, Shree Soft, Indore (2021 - 2023)
+* 🔧 Java backend development using Spring Boot, REST APIs, and microservices
+* ☁️ Cloud-native deployment and automation with Docker, Kubernetes, Jenkins
+* 📡 Experience with telecom protocols like SMPP and messaging APIs (Twilio, Gupshup)
+* 🛠️ Hands-on in system performance optimization and multithreaded architectures
+* 🌍 Worked on globally distributed systems with high throughput and reliability
 
-## 🔧 Roles and Responsibilities:
-- Developing and debugging code as per project requirements.
-- Analyzing user specifications and preparing units for QA.
-- Enhancing system performance and ensuring seamless integration.
+---
 
-## 🌍 Projects:
-### Global Messaging Provider (SMPP)
-- **Tools:** Spring Boot, MySQL, Microservices, React
-- **Description:** Led an innovative SMS project, optimizing SMS marketing by establishing direct connections with over 680 global carriers. This project significantly enhanced brand recognition and customer engagement.
+## 📫 Let's Connect
 
-### RemoteVal – Inspection Tool for Appraisers
-- **Tools:** Spring Boot, Rabbit MQ, Twilio, Eaglview, PostgreSQL, Azure
-- **Description:** Pioneered the first appraiser-driven remote inspection tool, enabling accurate home appraisals through photographs and measurements, revolutionizing the real estate appraisal process.
+* 📍 **Location:** Mansour, India
+* 📧 **Email:** [rajguruv737@gmail.com](mailto:rajguruv737@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/vinod-yogi](https://www.linkedin.com/in/vinod-yogi)
+* 💻 **GitHub:** [github.com/MR-VINODYOGI](https://github.com/MR-VINODYOGI)
+* 🌐 **Portfolio:** [vinod.rajgani.website](https://vinod.rajgani.website)
 
-### JobCart – Technician and Admin Service Management
-- **Tools:** JSP, Hibernate, Spring MVC, MySQL, JavaScript
-- **Description:** Developed a web-based application for managing service jobs, enhancing the efficiency of technician assignments and administrative processes in service management.
+---
 
-## 🌐 Languages:
-- English
-- Hindi
+## 🧠 Languages
 
-## 📞 Get in Touch:
-For collaboration or professional inquiries, please contact me via email at [rajguruv737@gmail.com](mailto:rajguruv737@gmail.com).
+* English
+* Hindi
+
+---
+
+> Thanks for stopping by! Feel free to explore my repositories .
