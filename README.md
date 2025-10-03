@@ -2,7 +2,7 @@
 
 **Java Technical Lead | Backend Developer | DevOps Expert**
 
-With over **4.5 years of professional experience**, I specialize in building high-performance, scalable backend systems using **Java** and **Spring Boot**, complemented by deep DevOps expertise in **Docker**, **Kubernetes**, and CI/CD pipelines. I have a proven track record in delivering production-ready solutions across telecom, messaging, and enterprise platforms.
+With over **5+ years of professional experience**, I specialize in building high-performance, scalable backend systems using **Java** and **Spring Boot**, complemented by deep DevOps expertise in **Docker**, **Kubernetes**, and CI/CD pipelines. I have a proven track record in delivering production-ready solutions across telecom, messaging, and enterprise platforms.
 
 ---
 
