@@ -22,7 +22,7 @@ With over **5+ years of professional experience**, I specialize in building high
 * 📧 **Email:** [rajguruv737@gmail.com](mailto:rajguruv737@gmail.com)
 * 💼 **LinkedIn:** [linkedin.com/in/vinod-yogi](https://www.linkedin.com/in/vinod-yogi)
 * 💻 **GitHub:** [github.com/MR-VINODYOGI](https://github.com/MR-VINODYOGI)
-* 🌐 **Portfolio:** [vinod.rajgani.website](https://vinod.rajguru.website)
+* 🌐 **Portfolio:** [vinod.rajgunu.website](https://vinod.rajguru.website)
 
 ---
 
