@@ -2,14 +2,14 @@
 
 # Hey there! I'm Vinod Yogi 👋
 
-### Sr. Java Technical Lead | Backend Architect | DevOps Practitioner
+### Java Technical Lead | Backend Architect | DevOps Practitioner
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinod-yogi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vinod.rajguru.website)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajguruv737@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MR-VINODYOGI)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=5.5%2B+Years+in+Backend+Engineering;Scalable+Messaging+Platforms+%7C+680%2B+Carriers;Spring+Boot+%7C+Microservices+%7C+Kubernetes;Building+Systems+That+Handle+Millions+of+Messages" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=5%2B+Years+in+Backend+Engineering;Scalable+Messaging+Platforms+%7C+680%2B+Carriers;Spring+Boot+%7C+Microservices+%7C+Kubernetes;Systems+That+Handle+Millions+of+Messages" alt="Typing SVG" /></a>
 
 </div>
 
@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Sr. Java Technical Lead** at **High Tech Infosystems** with 5.5+ years of experience building high-performance backend systems for telecom and enterprise messaging. I architect scalable platforms that connect businesses worldwide — handling millions of messages through 680+ international carrier integrations.
+I'm a ** Sr. Java Technical Lead** at **High Tech Infosystems** with 5.5+ years of experience building high-performance backend systems for telecom and enterprise messaging. I architect scalable platforms that connect businesses worldwide — handling millions of messages through 680+ international carrier integrations.
 
 - 🔭 Currently leading **global SMPP messaging** and **WhatsApp Business API** integration projects
 - 🏗️ Building systems with **99.99% uptime** serving 20+ global telecom operators
@@ -88,10 +88,18 @@ I'm a **Sr. Java Technical Lead** at **High Tech Infosystems** with 5.5+ years o
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MR-VINODYOGI&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-VINODYOGI&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=MR-VINODYOGI&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=MR-VINODYOGI&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MR-VINODYOGI&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
+</picture>
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-VINODYOGI&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-VINODYOGI&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-VINODYOGI&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" />
+</picture>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-VINODYOGI&theme=github-dark-blue&hide_border=true" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MR-VINODYOGI&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" /></a>
 
 </div>
 
