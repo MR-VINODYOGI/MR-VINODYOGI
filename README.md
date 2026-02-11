@@ -95,27 +95,6 @@ I'm a **Sr. Java Technical Lead** at **High Tech Infosystems** with 5.5+ years o
 
 </div>
 
----
-
-## 💼 Experience Timeline
-
-```
-🟢 Oct 2025 – Present    Sr. Technical Lead – Java & DevOps      @ High Tech Infosystems
-🟢 Apr 2025 – Sep 2025   Technical Lead – Java & DevOps      @ High Tech Infosystems
-🔵 Oct 2024 – Mar 2025   Senior Java Software Developer       @ High Tech Infosystems
-🔵 Oct 2023 – Sep 2024   Java Software Developer              @ High Tech Infosystems
-🟡 Jan 2023 – Jun 2023   Java Software Developer              @ SculptSoft Pvt Ltd
-🟠 Sep 2021 – Jan 2023   Junior Java Developer                @ Shree Soft Technologies
-```
-
----
-
-## 🎓 Education
-
-**Bachelor of Computer Applications (BCA)** — Maharaja Ranjit Singh College of Professional Sciences, Indore *(2019 – 2022)*
-
----
-
 <div align="center">
 
 ### 🤝 Let's Connect & Build Something Great
