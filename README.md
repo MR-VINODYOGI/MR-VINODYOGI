@@ -2,7 +2,7 @@
 
 # Hey there! I'm Vinod Yogi 👋
 
-### Java Technical Lead | Backend Architect | DevOps Practitioner
+### Sr. Java Technical Lead | Backend Architect | DevOps Practitioner
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinod-yogi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vinod.rajguru.website)
@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Java Technical Lead** at **High Tech Infosystems** with 5+ years of experience building high-performance backend systems for telecom and enterprise messaging. I architect scalable platforms that connect businesses worldwide — handling millions of messages through 680+ international carrier integrations.
+I'm a **Sr. Java Technical Lead** at **High Tech Infosystems** with 5.5+ years of experience building high-performance backend systems for telecom and enterprise messaging. I architect scalable platforms that connect businesses worldwide — handling millions of messages through 680+ international carrier integrations.
 
 - 🔭 Currently leading **global SMPP messaging** and **WhatsApp Business API** integration projects
 - 🏗️ Building systems with **99.99% uptime** serving 20+ global telecom operators
@@ -100,7 +100,8 @@ I'm a **Java Technical Lead** at **High Tech Infosystems** with 5+ years of expe
 ## 💼 Experience Timeline
 
 ```
-🟢 Apr 2025 – Present    Technical Lead – Java & DevOps      @ High Tech Infosystems
+🟢 Oct 2025 – Present    Sr. Technical Lead – Java & DevOps      @ High Tech Infosystems
+🟢 Apr 2025 – Sep 2025   Technical Lead – Java & DevOps      @ High Tech Infosystems
 🔵 Oct 2024 – Mar 2025   Senior Java Software Developer       @ High Tech Infosystems
 🔵 Oct 2023 – Sep 2024   Java Software Developer              @ High Tech Infosystems
 🟡 Jan 2023 – Jun 2023   Java Software Developer              @ SculptSoft Pvt Ltd
