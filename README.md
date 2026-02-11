@@ -9,7 +9,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajguruv737@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MR-VINODYOGI)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=5%2B+Years+in+Backend+Engineering;Scalable+Messaging+Platforms+%7C+680%2B+Carriers;Spring+Boot+%7C+Microservices+%7C+Kubernetes;Building+Systems+That+Handle+Millions+of+Messages" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=5.5%2B+Years+in+Backend+Engineering;Scalable+Messaging+Platforms+%7C+680%2B+Carriers;Spring+Boot+%7C+Microservices+%7C+Kubernetes;Building+Systems+That+Handle+Millions+of+Messages" alt="Typing SVG" />
 
 </div>
 
