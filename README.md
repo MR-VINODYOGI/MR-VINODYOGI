@@ -9,7 +9,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajguruv737@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MR-VINODYOGI)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=5.5%2B+Years+in+Backend+Engineering;SMPP+%7C+WhatsApp+%7C+Email+%7C+Telegram+%7C+Omni-Channel;Direct+Protocol+Integrations+%E2%80%94+No+Third-Party+Dependency;680%2B+Carriers+%7C+99.99%25+Uptime+%7C+Millions+of+Messages" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=5.5%2B+Years+in+Backend+Engineering;SMPP+%7C+WhatsApp+%7C+Email+%7C+Telegram;Direct+Protocol+Integration+%7C+No+Third-Party;680%2B+Carriers+%7C+99.99%25+Uptime+%7C+Millions+of+Messages" alt="Typing SVG" /></a>
 
 </div>
 
