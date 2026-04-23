@@ -1,169 +1,262 @@
 <div align="center">
 
-# Hey there! I'm Vinod Yogi 👋
+# Hey there! I'm Vinod Yogi
 
-### Sr. Java Technical Lead | Backend Architect | Omni-Channel Messaging Expert
+### Senior Technical Lead | Full-Stack Telecom & CPaaS Architect | Java & Spring Boot | Kubernetes & DevOps
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinod-yogi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vinod.rajguru.website)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajguruv737@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MR-VINODYOGI)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=5.5%2B+Years+in+Backend+Engineering;SMPP+%7C+WhatsApp+%7C+Email+%7C+Telegram;Direct+Protocol+Integration+%7C+No+Third-Party;680%2B+Carriers+%7C+99.99%25+Uptime+%7C+Millions+of+Messages" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=900&lines=5%2B+Years+in+Backend+Engineering;GSMA+Client+%7C+680%2B+Operators+%7C+17%2B+Countries;SMPP+10k%2B+SMS%2Fsec+%7C+CPaaS+%7C+WebRTC+%7C+SIP;Java+21+%7C+Spring+Boot+3+%7C+Kubernetes;Direct+Protocol+Integration+%7C+No+Third-Party" alt="Typing SVG" /></a>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-I'm a **Sr. Java Technical Lead** at **High Tech Infosystems** with 5.5+ years of experience building high-performance backend systems for telecom and enterprise messaging. I architect scalable omni-channel communication platforms that connect businesses worldwide — handling millions of messages across SMS, WhatsApp, Email, and Telegram through direct protocol integrations.
+I'm a **Senior Technical Lead** at **High Tech Infosystems** with **5+ years** of experience architecting and delivering enterprise-grade backend systems, telecom integrations, and high-availability infrastructure at global scale.
 
-- 🔭 Currently leading **omni-channel messaging platform** — SMS, WhatsApp, Email, Telegram all in one system
-- 📡 I integrate **directly at the protocol level** — SMPP, Meta Cloud API, SMTP/IMAP, MTProto — **no third-party middleware**
-- 🏗️ Building systems with **99.99% uptime** serving 20+ global telecom operators across 680+ carriers
-- 🚀 Passionate about **system design**, **multithreading**, and **distributed architectures**
-- ☸️ Full **Kubernetes infrastructure** — bare metal cluster setup, CI/CD pipelines, monitoring
-- 👥 Leading and mentoring a team of Java developers
-- 📍 Based in **India**
+Currently leading engineering for a **GSMA-member global telecom client** with **680+ direct operator connections** across **17+ countries** (UAE, UK, USA, KSA, Egypt, Jordan) serving **60,000+ enterprise clients worldwide**.
 
----
-
-## 📡 Channel Integrations — What I Work With
-
-<div align="center">
-
-### Direct Protocol Integrations (No Third-Party Dependency)
-
-</div>
-
-| Channel | Protocol / API | Integration Type | What I Built |
-|---------|---------------|-----------------|-------------|
-| **SMS** | **SMPP Protocol** | Direct carrier integration | Built custom SMPP client/server from scratch — direct bind with 680+ international carriers, no third-party SMS gateway |
-| **WhatsApp** | **Meta Cloud API** (Direct) | BSP + MSP both | Direct integration with Meta — both BSP (Business Solution Provider) and MSP (Marketing Solution Provider) flows, template management, webhook handling |
-| **Email** | **SMTP + IMAP** | Direct protocol | SMTP for sending, IMAP for inbox sync/read — built full email client with template engine, attachments, delivery tracking |
-| **Telegram** | **MTProto** | Direct protocol | Telegram's native MTProto protocol — not the Bot API, the actual Telegram protocol for advanced messaging capabilities |
-
-<div align="center">
-
-### Third-Party Integrations (For Specific Use Cases)
-
-</div>
-
-| Provider | Channel | Use Case |
-|----------|---------|----------|
-| **Twilio** | Voice / SMS | Voice calls, IVR, SMS fallback routing |
-| **Gupshup** | WhatsApp | CPaaS WhatsApp delivery for specific operator routes |
-| **TMT** | HLR Lookup | Number validation, network identification, porting checks |
-| **VNG** | HLR Lookup | Real-time HLR queries for number status verification |
-| **Message Bridge** | WhatsApp | Alternative WhatsApp delivery route |
-| **BAB** | WhatsApp | WhatsApp Business API routing for specific regions |
+- Building enterprise CPaaS platforms handling **100M+ records/day**
+- SMPP gateway processing **10,000+ SMS per second**
+- Multi-region Kubernetes deployments (Jordan/Saudi namespace isolation)
+- 5 custom Java SDKs for WhatsApp, Instagram, Messenger, Telegram, Email
+- Open to senior and lead-level international opportunities
 
 ---
 
-## 🛠️ Tech Stack
+## Featured Projects
 
-<div align="center">
+### 1. RingVox — Enterprise Calling & Communication Platform `Mar 2026 - Present`
+Enterprise calling and unified communication platform combining SIP-based telephony and WebRTC browser calling.
 
-### Languages & Frameworks
+**Telephony (SIP):** IVR Auto-Attendant with multi-level menus, DTMF routing, SIP Trunk management (Twilio, Telnyx, Vonage) with 4-tier routing priority, Number Masking (Uber/Swiggy-style virtual numbers), Call Forwarding, Call Queues with music on hold, Ring Groups (simultaneous/sequential).
+
+**Browser (WebRTC):** One-on-one audio/video calls, conferencing (100 participants), call recording, screen sharing via LiveKit integration.
+
+`Java 21` `Spring Boot 3.5` `React 18` `TypeScript` `LiveKit` `SIP` `WebRTC` `DTMF` `PostgreSQL` `Redis` `Kubernetes`
+
+---
+
+### 2. CPaaS Messaging Platform `Oct 2023 - Present`
+Multi-tenant CPaaS messaging platform handling **100M+ records/day** for a GSMA-member global telecom client. Unified API gateway supporting SMS, WhatsApp, Telegram, Instagram, Messenger, and Email channels with database-per-tenant isolation and hot-provisioning of new tenants with zero-downtime onboarding.
+
+**5 Custom Java SDKs from scratch:**
+- Meta WhatsApp Business Cloud API (BSP/MSP flows with Embedded Signup OAuth 2.0)
+- Instagram Graph API
+- Facebook Messenger Platform
+- Telegram TDLib (JNI integration)
+- Email (SMTP/IMAP/POP)
+
+**Security:** JWT with refresh token rotation, AES-GCM encryption, OTP verification, per-tenant rate limiting, webhook signature verification, circuit breakers, dead letter queues.
+
+`Java 21` `Spring Boot 3` `MySQL 8` `Redis` `Hazelcast` `Retrofit2` `OkHttp` `JNI` `Docker` `Kubernetes` `WebSocket/STOMP` `AWS`
+
+---
+
+### 3. Global SMPP Messaging Platform (680+ Carriers) `Jan 2024 - Present`
+High-throughput SMPP v3.4 messaging platform serving **680+ direct carrier connections** across **200+ worldwide operators**. Processing **10,000+ SMS per second** with session management, bulk SMS, delivery reports (DLR), SIM gateway integration, HLR Lookup services, SMSC Gateway, SMS Firewall, and A2P messaging for enterprise clients in UAE, UK, USA, KSA, Egypt, Jordan, Singapore, Australia.
+
+Multi-carrier failover with real-time health scoring, weighted routing, connection pooling, and dynamic session scaling. Achieved **99.95% delivery rate** across cross-border routes.
+
+`Java 21` `Spring Boot 3` `SMPP` `Hazelcast` `MySQL` `Redis` `Kubernetes` `Docker` `Prometheus` `Grafana`
+
+---
+
+### 4. Local Bypass Routing System `Jun 2024 - Oct 2024`
+Intelligent SMS bypass routing system to handle inbound telecom traffic via cost-effective delivery channels. Smart routing logic with real-time message filtering, spam detection, and analytics modules reducing delivery costs significantly.
+
+`Java 17` `Spring Boot` `Jenkins` `Kubernetes` `Docker Hub` `Hazelcast` `SMPP`
+
+---
+
+### 5. RemoteVal — Remote Property Valuation Platform `Jan 2023 - Jun 2023`
+Built RemoteVal, a remote property valuation platform for US-based real estate clients, enabling real-time property assessments and video-based valuations. Integrated Twilio Programmable Video/Voice for real-time communication. Deployed backend services on Azure Cloud.
+
+`Java` `Spring Boot` `Spring MVC` `Hibernate` `MySQL` `Twilio (Video/Voice)` `RabbitMQ` `Azure Cloud` `REST API`
+
+---
+
+### 6. Antibody Registration and Management Portal `Mar 2022 - Nov 2022`
+Web application for managing antibody research and inventory in collaboration with pharmaceutical researchers. Antibody/DNA/ADC registration with unique ID generation, audit trails, compound request/approval/issuance tracking, role-based SSO access, and rack-wise storage management.
+
+`Spring Boot` `MySQL` `Redis`
+
+---
+
+## Tech Stack
+
+### Languages & Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Java EE](https://img.shields.io/badge/Java_EE-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 
-### Messaging Protocols (Direct Integration)
-![SMPP](https://img.shields.io/badge/SMPP_Protocol-FF6B35?style=for-the-badge&logoColor=white)
-![Meta WhatsApp](https://img.shields.io/badge/Meta_Cloud_API-0668E1?style=for-the-badge&logo=meta&logoColor=white)
-![SMTP](https://img.shields.io/badge/SMTP-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![IMAP](https://img.shields.io/badge/IMAP-4285F4?style=for-the-badge&logo=maildotru&logoColor=white)
-![MTProto](https://img.shields.io/badge/MTProto-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+### Telecom & Messaging
+![SMPP](https://img.shields.io/badge/SMPP-0088CC?style=for-the-badge&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_TDLib-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 
-### Third-Party CPaaS & HLR
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
-![Gupshup](https://img.shields.io/badge/Gupshup-6C63FF?style=for-the-badge&logoColor=white)
-![WhatsApp API](https://img.shields.io/badge/WhatsApp_BSP+MSP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![TMT HLR](https://img.shields.io/badge/TMT_HLR-FF9800?style=for-the-badge&logoColor=white)
-![VNG HLR](https://img.shields.io/badge/VNG_HLR-4CAF50?style=for-the-badge&logoColor=white)
-![Message Bridge](https://img.shields.io/badge/Message_Bridge-9C27B0?style=for-the-badge&logoColor=white)
-![BAB](https://img.shields.io/badge/BAB_WhatsApp-00BFA5?style=for-the-badge&logoColor=white)
+# Hey there! I'm Vinod Yogi
 
-### DevOps & Infrastructure
+### Senior Technical Lead | Full-Stack Telecom & CPaaS Architect | Java & Spring Boot | Kubernetes & DevOps
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinod-yogi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vinod.rajguru.website)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajguruv737@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MR-VINODYOGI)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=900&lines=5%2B+Years+in+Backend+Engineering;GSMA+Client+%7C+680%2B+Operators+%7C+17%2B+Countries;SMPP+10k%2B+SMS%2Fsec+%7C+CPaaS+%7C+WebRTC+%7C+SIP;Java+21+%7C+Spring+Boot+3+%7C+Kubernetes;Direct+Protocol+Integration+%7C+No+Third-Party" alt="Typing SVG" /></a>
+
+</div>
+
+---
+
+## About Me
+
+I'm a **Senior Technical Lead** at **High Tech Infosystems** with **5+ years** of experience architecting and delivering enterprise-grade backend systems, telecom integrations, and high-availability infrastructure at global scale.
+
+Currently leading engineering for a **GSMA-member global telecom client** with **680+ direct operator connections** across **17+ countries** (UAE, UK, USA, KSA, Egypt, Jordan) serving **60,000+ enterprise clients worldwide**.
+
+- Building enterprise CPaaS platforms handling **100M+ records/day**
+- SMPP gateway processing **10,000+ SMS per second**
+- Multi-region Kubernetes deployments (Jordan/Saudi namespace isolation)
+- 5 custom Java SDKs for WhatsApp, Instagram, Messenger, Telegram, Email
+- Open to senior and lead-level international opportunities
+
+---
+
+## Featured Projects
+
+### 1. RingVox — Enterprise Calling & Communication Platform `Mar 2026 - Present`
+Enterprise calling and unified communication platform combining SIP-based telephony and WebRTC browser calling.
+
+**Telephony (SIP):** IVR Auto-Attendant with multi-level menus, DTMF routing, SIP Trunk management (Twilio, Telnyx, Vonage) with 4-tier routing priority, Number Masking (Uber/Swiggy-style virtual numbers), Call Forwarding, Call Queues with music on hold, Ring Groups (simultaneous/sequential).
+
+**Browser (WebRTC):** One-on-one audio/video calls, conferencing (100 participants), call recording, screen sharing via LiveKit integration.
+
+`Java 21` `Spring Boot 3.5` `React 18` `TypeScript` `LiveKit` `SIP` `WebRTC` `DTMF` `PostgreSQL` `Redis` `Kubernetes`
+
+---
+
+### 2. CPaaS Messaging Platform `Oct 2023 - Present`
+Multi-tenant CPaaS messaging platform handling **100M+ records/day** for a GSMA-member global telecom client. Unified API gateway supporting SMS, WhatsApp, Telegram, Instagram, Messenger, and Email channels with database-per-tenant isolation and hot-provisioning of new tenants with zero-downtime onboarding.
+
+**5 Custom Java SDKs from scratch:**
+- Meta WhatsApp Business Cloud API (BSP/MSP flows with Embedded Signup OAuth 2.0)
+- Instagram Graph API
+- Facebook Messenger Platform
+- Telegram TDLib (JNI integration)
+- Email (SMTP/IMAP/POP)
+
+**Security:** JWT with refresh token rotation, AES-GCM encryption, OTP verification, per-tenant rate limiting, webhook signature verification, circuit breakers, dead letter queues.
+
+`Java 21` `Spring Boot 3` `MySQL 8` `Redis` `Hazelcast` `Retrofit2` `OkHttp` `JNI` `Docker` `Kubernetes` `WebSocket/STOMP` `AWS`
+
+---
+
+### 3. Global SMPP Messaging Platform (680+ Carriers) `Jan 2024 - Present`
+High-throughput SMPP v3.4 messaging platform serving **680+ direct carrier connections** across **200+ worldwide operators**. Processing **10,000+ SMS per second** with session management, bulk SMS, delivery reports (DLR), SIM gateway integration, HLR Lookup services, SMSC Gateway, SMS Firewall, and A2P messaging for enterprise clients in UAE, UK, USA, KSA, Egypt, Jordan, Singapore, Australia.
+
+Multi-carrier failover with real-time health scoring, weighted routing, connection pooling, and dynamic session scaling. Achieved **99.95% delivery rate** across cross-border routes.
+
+`Java 21` `Spring Boot 3` `SMPP` `Hazelcast` `MySQL` `Redis` `Kubernetes` `Docker` `Prometheus` `Grafana`
+
+---
+
+### 4. Local Bypass Routing System `Jun 2024 - Oct 2024`
+Intelligent SMS bypass routing system to handle inbound telecom traffic via cost-effective delivery channels. Smart routing logic with real-time message filtering, spam detection, and analytics modules reducing delivery costs significantly.
+
+`Java 17` `Spring Boot` `Jenkins` `Kubernetes` `Docker Hub` `Hazelcast` `SMPP`
+
+---
+
+### 5. RemoteVal — Remote Property Valuation Platform `Jan 2023 - Jun 2023`
+Built RemoteVal, a remote property valuation platform for US-based real estate clients, enabling real-time property assessments and video-based valuations. Integrated Twilio Programmable Video/Voice for real-time communication. Deployed backend services on Azure Cloud.
+
+`Java` `Spring Boot` `Spring MVC` `Hibernate` `MySQL` `Twilio (Video/Voice)` `RabbitMQ` `Azure Cloud` `REST API`
+
+---
+
+### 6. Antibody Registration and Management Portal `Mar 2022 - Nov 2022`
+Web application for managing antibody research and inventory in collaboration with pharmaceutical researchers. Antibody/DNA/ADC registration with unique ID generation, audit trails, compound request/approval/issuance tracking, role-based SSO access, and rack-wise storage management.
+
+`Spring Boot` `MySQL` `Redis`
+
+---
+
+## Tech Stack
+
+### Languages & Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+
+### Telecom & Messaging
+![SMPP](https://img.shields.io/badge/SMPP-0088CC?style=for-the-badge&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_TDLib-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+
+### Databases & Caching
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![Hazelcast](https://img.shields.io/badge/Hazelcast-FF8C00?style=for-the-badge&logoColor=white)
+
+### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![MetalLB](https://img.shields.io/badge/MetalLB-00599C?style=for-the-badge&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-### Databases & Message Queues
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Hazelcast](https://img.shields.io/badge/Hazelcast-4285F4?style=for-the-badge&logo=hazelcast&logoColor=white)
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Vinod's GitHub stats](https://github-readme-stats.vercel.app/api?username=MR-VINODYOGI&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-VINODYOGI&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🏆 Key Projects
+## Key Achievements
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **Global SMPP Messaging Platform** | Enterprise SMS platform with **direct SMPP protocol** integration across **680+ international carriers** — custom SMPP client/server, real-time DLR, throughput optimization, failover routing | `SMPP` `Spring Boot` `Kubernetes` `Redis` `RabbitMQ` `Hazelcast` |
-| **Omni-Channel Communication Platform** | Unified messaging across **SMS + WhatsApp + Email + Telegram** — 22 web microservices + 8 core services for SMPP, 34 web microservices + 8 core services for Omni | `SMPP` `Meta API` `SMTP/IMAP` `MTProto` `Kubernetes` `Docker` |
-| **WhatsApp Business Integration (BSP + MSP)** | Direct **Meta Cloud API** integration — both BSP and MSP flows, template management, webhook processing, media handling, campaign engine | `Meta Cloud API` `Spring Boot` `MySQL` `Redis` |
-| **Email Communication Engine** | Full email system with **direct SMTP sending + IMAP inbox sync** — template engine, attachment handling, delivery tracking, bounce management | `SMTP` `IMAP` `Spring Boot` `MySQL` |
-| **Telegram Messaging Platform** | Direct **MTProto protocol** integration — not Bot API, native Telegram protocol for advanced messaging with TDLib | `MTProto` `TDLib` `Spring Boot` `Redis` |
-| **HLR Lookup Service** | Real-time number validation via **TMT & VNG** — MNP checks, network identification, number portability, active status verification | `TMT` `VNG` `Spring Boot` `REST API` |
-| **Local Bypass Routing System** | Intelligent SMS routing with spam filtering and dynamic routing logic to reduce delivery costs across carrier networks | `Java 17` `Spring Boot` `Kubernetes` `SMPP` `Hazelcast` |
-| **K8s Infrastructure Documentation** | Complete bare-metal Kubernetes cluster setup documentation — from OS prep to production with MetalLB, Ingress, Cert-Manager, Jenkins CI/CD | `Kubernetes` `Docker` `Jenkins` `MetalLB` `Flannel` `OpenEBS` |
-| **RemoteVal** | Remote property inspection platform with live video evaluations using Twilio and async processing | `Java 11` `Spring Boot` `Twilio` `RabbitMQ` `Azure` |
+- Architected global telecom infrastructure processing **10,000+ SMS/sec** across 17+ countries
+- Led multi-region Kubernetes deployments serving Middle East, Europe, and North America
+- Built **5 custom Java SDKs** for Meta WhatsApp, Instagram, Messenger, Telegram TDLib, Email
+- Designed enterprise CPaaS with **96-endpoint REST API** and real-time WebSocket events
+- Delivered **zero-downtime deployments** under extreme international traffic conditions
+- **99.95% message delivery rate** across 200+ worldwide operators
+- Mentored and led team of engineers through code reviews, system design, release planning
 
 ---
 
-## 📊 GitHub Stats
+## Let's Connect
+
+Open to senior and lead-level opportunities in **backend engineering**, **telecom/CPaaS**, and **DevOps** — especially international and remote roles.
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinod-yogi)
+[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajguruv737@gmail.com)
 
 <div align="center">
 
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=MR-VINODYOGI&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api?username=MR-VINODYOGI&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MR-VINODYOGI&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
-</picture>
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-VINODYOGI&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-VINODYOGI&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-VINODYOGI&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" />
-</picture>
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MR-VINODYOGI&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" /></a>
-
-</div>
-
----
-
-<div align="center">
-
-### 🤝 Let's Connect & Build Something Great
-
-I'm always open to discussing **system architecture**, **messaging platforms**, **protocol integrations**, or **backend engineering** challenges.
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinod-yogi)
-[![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajguruv737@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://vinod.rajguru.website)
-
-![Profile Views](https://komarev.com/ghpvc/?username=MR-VINODYOGI&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=MR-VINODYOGI&style=for-the-badge&color=0A66C2)
 
 </div>
