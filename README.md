@@ -88,10 +88,17 @@ Web application for managing antibody research and inventory in collaboration wi
 
 ---
 
-### 7. Job Card Service — Service Ticket & Work Order Management `Jul 2021 - Feb 2022`
-Enterprise job card and work order management platform for service operations. Automated job card creation, assignment, and lifecycle tracking with role-based workflows, technician dispatch, status updates, and reporting. Implemented REST APIs for third-party integrations, approval flows, and audit logging for end-to-end traceability.
+### 7. Product Service Jobcart `Sep 2021 - Dec 2022`
+**Associated with Shree Soft Technologies**
 
-`Java` `Spring Boot` `Spring MVC` `Hibernate` `MySQL` `REST API` `Jenkins`
+Web-based application to streamline the process of registering and tracking products submitted for servicing. Helped technicians and administrators through workflow management of repairs and improved operational visibility across service operations.
+
+**Key Highlights:**
+- Admin panel for job registration and assignment
+- Allowed technicians to view and modify the status of jobs in real-time
+- Improved transparency and efficiency across service workflows
+
+`Core Java` `JDBC` `Servlet` `JSP` `Hibernate` `Spring Boot` `MySQL`
 
 ---
 
