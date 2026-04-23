@@ -42,7 +42,7 @@ Enterprise calling and unified communication platform combining SIP-based teleph
 
 ---
 
-### 2. CPaaS Messaging Platform `Oct 2023 - Present`
+### 2. CPaaS Messaging Platform `Oct 2024 - Present`
 Multi-tenant CPaaS messaging platform handling **100M+ records/day** for a GSMA-member global telecom client. Unified API gateway supporting SMS, WhatsApp, Telegram, Instagram, Messenger, and Email channels with database-per-tenant isolation and hot-provisioning of new tenants with zero-downtime onboarding.
 
 **5 Custom Java SDKs from scratch:**
@@ -58,7 +58,7 @@ Multi-tenant CPaaS messaging platform handling **100M+ records/day** for a GSMA-
 
 ---
 
-### 3. Global SMPP Messaging Platform (680+ Carriers) `Jan 2024 - Present`
+### 3. Global SMPP Messaging Platform (680+ Carriers) `Oct 2023 - Present`
 High-throughput SMPP v3.4 messaging platform serving **680+ direct carrier connections** across **200+ worldwide operators**. Processing **10,000+ SMS per second** with session management, bulk SMS, delivery reports (DLR), SIM gateway integration, HLR Lookup services, SMSC Gateway, SMS Firewall, and A2P messaging for enterprise clients in UAE, UK, USA, KSA, Egypt, Jordan, Singapore, Australia.
 
 Multi-carrier failover with real-time health scoring, weighted routing, connection pooling, and dynamic session scaling. Achieved **99.95% delivery rate** across cross-border routes.
@@ -81,14 +81,15 @@ Built RemoteVal, a remote property valuation platform for US-based real estate c
 
 ---
 
-### 6. Antibody Registration and Management Portal `Mar 2022 - Nov 2022`
+### 6. Antibody Registration and Management Portal `Apr 2025 - Oct 2025`
 Web application for managing antibody research and inventory in collaboration with pharmaceutical researchers. Antibody/DNA/ADC registration with unique ID generation, audit trails, compound request/approval/issuance tracking, role-based SSO access, and rack-wise storage management.
 
 `Spring Boot` `MySQL` `Redis`
 
 ---
 
-### 7. Product Service Jobcart `Sep 2021 - Dec 2022`
+### 7. Product Service Jobcart `Sep 2021 - Jan 2023`
+**Associated with Shree Soft Technologies**
 
 Web-based application to streamline the process of registering and tracking products submitted for servicing. Helped technicians and administrators through workflow management of repairs and improved operational visibility across service operations.
 
