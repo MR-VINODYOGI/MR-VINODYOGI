@@ -88,6 +88,13 @@ Web application for managing antibody research and inventory in collaboration wi
 
 ---
 
+### 7. Job Card Service — Service Ticket & Work Order Management `Jul 2021 - Feb 2022`
+Enterprise job card and work order management platform for service operations. Automated job card creation, assignment, and lifecycle tracking with role-based workflows, technician dispatch, status updates, and reporting. Implemented REST APIs for third-party integrations, approval flows, and audit logging for end-to-end traceability.
+
+`Java` `Spring Boot` `Spring MVC` `Hibernate` `MySQL` `REST API` `Jenkins`
+
+---
+
 ## Tech Stack
 
 ### Languages & Backend
@@ -99,6 +106,8 @@ Web application for managing antibody research and inventory in collaboration wi
 ### Telecom & Messaging
 ![SMPP](https://img.shields.io/badge/SMPP-0088CC?style=for-the-badge&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram_API-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![Messenger](https://img.shields.io/badge/Messenger_API-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram_TDLib-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
@@ -120,17 +129,6 @@ Web application for managing antibody research and inventory in collaboration wi
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Vinod's GitHub stats](https://github-readme-stats.vercel.app/api?username=MR-VINODYOGI&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-VINODYOGI&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
