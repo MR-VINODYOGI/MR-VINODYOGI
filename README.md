@@ -89,7 +89,6 @@ Web application for managing antibody research and inventory in collaboration wi
 ---
 
 ### 7. Product Service Jobcart `Sep 2021 - Dec 2022`
-**Associated with Shree Soft Technologies**
 
 Web-based application to streamline the process of registering and tracking products submitted for servicing. Helped technicians and administrators through workflow management of repairs and improved operational visibility across service operations.
 
