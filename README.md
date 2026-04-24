@@ -29,20 +29,63 @@ Currently leading engineering for a **GSMA-member global telecom client** with *
 
 ---
 
-## Featured Projects
+## Featured Projects (Chronological)
 
-### 1. RingVox — Enterprise Calling & Communication Platform `Mar 2026 - Present`
-Enterprise calling and unified communication platform combining SIP-based telephony and WebRTC browser calling.
+### 1. Product Service Jobcart `Sep 2021 - Jan 2023`
+**Associated with Shree Soft Technologies**
 
-**Telephony (SIP):** IVR Auto-Attendant with multi-level menus, DTMF routing, SIP Trunk management (Twilio, Telnyx, Vonage) with 4-tier routing priority, Number Masking (Uber/Swiggy-style virtual numbers), Call Forwarding, Call Queues with music on hold, Ring Groups (simultaneous/sequential).
+Web-based application to streamline the process of registering and tracking products submitted for servicing. Helped technicians and administrators through workflow management of repairs and improved operational visibility across service operations.
 
-**Browser (WebRTC):** One-on-one audio/video calls, conferencing (100 participants), call recording, screen sharing via LiveKit integration.
+**Key Highlights:**
+- Admin panel for job registration and assignment
+- Allowed technicians to view and modify the status of jobs in real-time
+- Improved transparency and efficiency across service workflows
 
-`Java 21` `Spring Boot 3.5` `React 18` `TypeScript` `LiveKit` `SIP` `WebRTC` `DTMF` `PostgreSQL` `Redis` `Kubernetes`
+`Core Java` `JDBC` `Servlet` `JSP` `Hibernate` `Spring Boot` `MySQL`
 
 ---
 
-### 2. CPaaS Messaging Platform `Oct 2024 - Present`
+### 2. RemoteVal — Remote Property Valuation Platform `Jan 2023 - Jun 2023`
+**Associated with SculptSoft Private Limited**
+
+Built RemoteVal, a remote property valuation platform for US-based real estate clients, enabling real-time property assessments and video-based valuations. Integrated Twilio Programmable Video/Voice for real-time communication. Deployed backend services on Azure Cloud.
+
+`Java` `Spring Boot` `Spring MVC` `Hibernate` `MySQL` `Twilio (Video/Voice)` `RabbitMQ` `Azure Cloud` `REST API`
+
+---
+
+### 3. Global SMPP Messaging Platform (680+ Carriers) `Oct 2023 - Oct 2025` *(Maintenance mode since Oct 2025)*
+**Associated with High Tech Infosystems**
+
+High-throughput SMPP v3.4 messaging platform serving **680+ direct carrier connections** across **200+ worldwide operators**. Processing **10,000+ SMS per second** with session management, bulk SMS, delivery reports (DLR), SIM gateway integration, HLR Lookup services, SMSC Gateway, SMS Firewall, and A2P messaging for enterprise clients in UAE, UK, USA, KSA, Egypt, Jordan, Singapore, Australia.
+
+Multi-carrier failover with real-time health scoring, weighted routing, connection pooling, and dynamic session scaling. Achieved **99.95% delivery rate** across cross-border routes.
+
+`Java 21` `Spring Boot 3` `SMPP` `Hazelcast` `MySQL` `Redis` `Kubernetes` `Docker` `Prometheus` `Grafana`
+
+---
+
+### 4. Local Bypass Routing System `Jun 2024 - Jan 2026` *(Maintenance mode since Jan 2026)*
+**Associated with High Tech Infosystems**
+
+Intelligent SMS bypass routing system to handle inbound telecom traffic via cost-effective delivery channels. Smart routing logic with real-time message filtering, spam detection, and analytics modules reducing delivery costs significantly.
+
+`Java 17` `Spring Boot` `Jenkins` `Kubernetes` `Docker Hub` `Hazelcast` `SMPP`
+
+---
+
+### 5. Antibody Registration and Management Portal `Apr 2025 - Oct 2025` *(Maintenance mode since Oct 2025)*
+**Associated with High Tech Infosystems**
+
+Web application for managing antibody research and inventory in collaboration with pharmaceutical researchers. Antibody/DNA/ADC registration with unique ID generation, audit trails, compound request/approval/issuance tracking, role-based SSO access, and rack-wise storage management.
+
+`Spring Boot` `MySQL` `Redis`
+
+---
+
+### 6. CPaaS Messaging Platform `Oct 2024 - Present`
+**Associated with High Tech Infosystems**
+
 Multi-tenant CPaaS messaging platform handling **100M+ records/day** for a GSMA-member global telecom client. Unified API gateway supporting SMS, WhatsApp, Telegram, Instagram, Messenger, and Email channels with database-per-tenant isolation and hot-provisioning of new tenants with zero-downtime onboarding.
 
 **5 Custom Java SDKs from scratch:**
@@ -58,47 +101,15 @@ Multi-tenant CPaaS messaging platform handling **100M+ records/day** for a GSMA-
 
 ---
 
-### 3. Global SMPP Messaging Platform (680+ Carriers) `Oct 2023 - Present`
-High-throughput SMPP v3.4 messaging platform serving **680+ direct carrier connections** across **200+ worldwide operators**. Processing **10,000+ SMS per second** with session management, bulk SMS, delivery reports (DLR), SIM gateway integration, HLR Lookup services, SMSC Gateway, SMS Firewall, and A2P messaging for enterprise clients in UAE, UK, USA, KSA, Egypt, Jordan, Singapore, Australia.
+### 7. RingVox — Enterprise Calling & Communication Platform `Mar 2026 - Present` *(Self-initiated for skill improvement)*
 
-Multi-carrier failover with real-time health scoring, weighted routing, connection pooling, and dynamic session scaling. Achieved **99.95% delivery rate** across cross-border routes.
+Enterprise calling and unified communication platform combining SIP-based telephony and WebRTC browser calling.
 
-`Java 21` `Spring Boot 3` `SMPP` `Hazelcast` `MySQL` `Redis` `Kubernetes` `Docker` `Prometheus` `Grafana`
+**Telephony (SIP):** IVR Auto-Attendant with multi-level menus, DTMF routing, SIP Trunk management (Twilio, Telnyx, Vonage) with 4-tier routing priority, Number Masking (Uber/Swiggy-style virtual numbers), Call Forwarding, Call Queues with music on hold, Ring Groups (simultaneous/sequential).
 
----
+**Browser (WebRTC):** One-on-one audio/video calls, conferencing (100 participants), call recording, screen sharing via LiveKit integration.
 
-### 4. Local Bypass Routing System `Jun 2024 - Oct 2024`
-Intelligent SMS bypass routing system to handle inbound telecom traffic via cost-effective delivery channels. Smart routing logic with real-time message filtering, spam detection, and analytics modules reducing delivery costs significantly.
-
-`Java 17` `Spring Boot` `Jenkins` `Kubernetes` `Docker Hub` `Hazelcast` `SMPP`
-
----
-
-### 5. RemoteVal — Remote Property Valuation Platform `Jan 2023 - Jun 2023`
-Built RemoteVal, a remote property valuation platform for US-based real estate clients, enabling real-time property assessments and video-based valuations. Integrated Twilio Programmable Video/Voice for real-time communication. Deployed backend services on Azure Cloud.
-
-`Java` `Spring Boot` `Spring MVC` `Hibernate` `MySQL` `Twilio (Video/Voice)` `RabbitMQ` `Azure Cloud` `REST API`
-
----
-
-### 6. Antibody Registration and Management Portal `Apr 2025 - Oct 2025`
-Web application for managing antibody research and inventory in collaboration with pharmaceutical researchers. Antibody/DNA/ADC registration with unique ID generation, audit trails, compound request/approval/issuance tracking, role-based SSO access, and rack-wise storage management.
-
-`Spring Boot` `MySQL` `Redis`
-
----
-
-### 7. Product Service Jobcart `Sep 2021 - Jan 2023`
-**Associated with Shree Soft Technologies**
-
-Web-based application to streamline the process of registering and tracking products submitted for servicing. Helped technicians and administrators through workflow management of repairs and improved operational visibility across service operations.
-
-**Key Highlights:**
-- Admin panel for job registration and assignment
-- Allowed technicians to view and modify the status of jobs in real-time
-- Improved transparency and efficiency across service workflows
-
-`Core Java` `JDBC` `Servlet` `JSP` `Hibernate` `Spring Boot` `MySQL`
+`Java 21` `Spring Boot 3.5` `React 18` `TypeScript` `LiveKit` `SIP` `WebRTC` `DTMF` `PostgreSQL` `Redis` `Kubernetes`
 
 ---
 
