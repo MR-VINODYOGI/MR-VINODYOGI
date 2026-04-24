@@ -150,12 +150,32 @@ Enterprise calling and unified communication platform combining SIP-based teleph
 
 ---
 
+## Employment Journey
+
+### 🏢 High Tech Infosystems — Jabalpur, Madhya Pradesh *(Oct 2023 – Present · 2 yrs 7 mos · Full-time · On-site)*
+
+Career progression — promoted through **4 designations**:
+
+| # | Designation | Duration | Period |
+|---|-------------|----------|--------|
+| 4 | **Senior Technical Lead – Java & DevOps** *(Current)* | 7 mos | Oct 2025 – Present |
+| 3 | **Technical Lead – Java & DevOps** | 7 mos | Apr 2025 – Oct 2025 |
+| 2 | **Senior Java Software Developer** | 7 mos | Oct 2024 – Apr 2025 |
+| 1 | **Java Software Developer** | 1 yr 1 mo | Oct 2023 – Oct 2024 |
+
+### 🏢 SculptSoft Private Limited — Ahmedabad, Gujarat *(Jan 2023 – Jun 2023 · 6 mos · Full-time)*
+**Software Engineer / Java Developer** — Delivered RemoteVal Remote Property Valuation Platform for US-based real estate clients.
+
+### 🏢 Shree Soft Technologies — Indore, Madhya Pradesh *(Sep 2021 – Jan 2023 · 1 yr 5 mos · Full-time)*
+**Jr. Java Developer** — Delivered Product Service Jobcart web-based workflow management application.
+
+---
+
 ## Key Achievements
 
 - Architected global telecom infrastructure processing **10,000+ SMS/sec** across 17+ countries
 - Led multi-region Kubernetes deployments serving Middle East, Europe, and North America
 - Built **5 custom Java SDKs** for Meta WhatsApp, Instagram, Messenger, Telegram TDLib, Email
-- Designed enterprise CPaaS with **96-endpoint REST API** and real-time WebSocket events
 - Delivered **zero-downtime deployments** under extreme international traffic conditions
 - **99.95% message delivery rate** across 200+ worldwide operators
 - Mentored and led team of engineers through code reviews, system design, release planning
